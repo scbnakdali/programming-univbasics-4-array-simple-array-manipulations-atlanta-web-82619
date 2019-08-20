@@ -53,7 +53,7 @@ end
 
 def using_delete_at(array, interger)
    famous_robots = ["Johnny 5", "R2D2", "Robocop"]
-    famous_robots.delete(2)
+   delete_robot = famous_robots.delete(2)
 end 
   
 
